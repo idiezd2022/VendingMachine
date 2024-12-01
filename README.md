@@ -42,9 +42,12 @@ A continuacion, se muestra la imagen del esquema del circuito.
 Y la foto del circuito real:
 
 <p align="center">
-  <img src="p4images/apiece.png" alt="Final solution" width="50%" style="border: 2px solid black;">
+  <img src="dia.png" alt="CONEXIONADO" width="40%" style="border: 2px solid black;">
+  &nbsp;&nbsp;&nbsp;
+  <img src="noche.png" alt="OTRA VISTA" width="40%" style="border: 2px solid black;">
   &nbsp;&nbsp;&nbsp;
 </p>
+
 
 # 4. DIFICULTADES
 
