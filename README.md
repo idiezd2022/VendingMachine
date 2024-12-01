@@ -35,7 +35,7 @@ Once the vacuum has completed its turn, the algorithm switches to the FORWARD st
 
 A continuacion, se muestra la imagen del esquema del circuito. 
 <p align="center">
-  <img src="p4images/apiece.png" alt="Final solution" width="50%" style="border: 2px solid black;">
+  <img src="empotrados3.png" alt="CONEXIONADO" width="50%" style="border: 2px solid black;">
   &nbsp;&nbsp;&nbsp;
 </p>
 
